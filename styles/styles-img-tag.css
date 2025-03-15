@@ -94,13 +94,10 @@ td > p {                                        /* set font & margins */
 
 
 /*///////////// 3.1 Header /////////////*/
-header {
+.section-header {
     max-width: 1000px;
-    background-image: url("../assets/images/mountains.jpg");
-    background-position: center;
-    padding: 200px 0 380px 0;
-    position: relative;                     /* this is the parent container */
-    margin: auto;                           /* centers the content */
+    position: relative;             /* this is the parent container */
+    margin: auto;                   /* centers the content */
 }
 
 .container-page-header {
